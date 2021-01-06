@@ -1,0 +1,36 @@
+h1
+{
+    color:seagreen;
+}
+h2
+{
+    color:olive;
+}
+.menu
+{
+    display:flex;
+    justify-content:space-between;
+    background-color: darkgray;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 400;
+}
+
+.grid
+{
+    display:block;
+    flex-wrap:wrap;
+}
+
+.origami
+{
+    border:5px solid thistle;
+    border-radius: 20px;
+    width: 310px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.grid img
+{
+    border: 2px solid black;
+    border-radius: 50px;
+}
